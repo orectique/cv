@@ -1,4 +1,4 @@
-name: Push updated LaTeX CV to webpage repository
+name: Push updated LaTeX -> Markdown CV to webpage repository
 on: push
 
 jobs:
