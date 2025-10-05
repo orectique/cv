@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.7.31)  1 AUG 2025 23:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.7.31)  5 OCT 2025 21:31
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/spulick/GitHub/cv/Sreehari_Pulickamadhom_Sreedhar_Resume.tex
-(/Users/spulick/GitHub/cv/Sreehari_Pulickamadhom_Sreedhar_Resume.tex
+**/Users/spulick/GitHub/cv/CV/Sreehari_Pulickamadhom_Sreedhar_Resume_STAR_nolabels.tex
+(/Users/spulick/GitHub/cv/CV/Sreehari_Pulickamadhom_Sreedhar_Resume_STAR_nolabels.tex
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
 (/usr/local/texlive/2025/texmf-dist/tex/latex/moderncv/moderncv.cls
@@ -652,8 +652,8 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 )
 Package hyperref Info: Option `breaklinks' set `true' on input line 31.
 Package hyperref Info: Option `bookmarksopen' set `true' on input line 31.
- (./Sreehari_Pulickamadhom_Sreedhar_Resume.aux)
-\openout1 = `Sreehari_Pulickamadhom_Sreedhar_Resume.aux'.
+ (./Sreehari_Pulickamadhom_Sreedhar_Resume_STAR_nolabels.aux)
+\openout1 = `Sreehari_Pulickamadhom_Sreedhar_Resume_STAR_nolabels.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
 LaTeX Font Info:    ... okay on input line 31.
@@ -749,9 +749,9 @@ Package microtype Info: Loading generic protrusion settings for font family
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package hyperref Info: Link coloring OFF on input line 31.
-(./Sreehari_Pulickamadhom_Sreedhar_Resume.out) (./Sreehari_Pulickamadhom_Sreedhar_Resume.out)
+(./Sreehari_Pulickamadhom_Sreedhar_Resume_STAR_nolabels.out) (./Sreehari_Pulickamadhom_Sreedhar_Resume_STAR_nolabels.out)
 \@outlinefile=\write4
-\openout4 = `Sreehari_Pulickamadhom_Sreedhar_Resume.out'.
+\openout4 = `Sreehari_Pulickamadhom_Sreedhar_Resume_STAR_nolabels.out'.
 
 
 
@@ -812,11 +812,11 @@ LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 56.
+(Font)              using `T1/cmss/bx/n' instead on input line 57.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 56.
+(Font)              using `T1/cmss/bx/n' instead on input line 57.
 
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cmss' (encoding: TS1).
@@ -865,129 +865,89 @@ LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 95.
+(Font)              using `T1/cmss/bx/n' instead on input line 94.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 95.
+(Font)              using `T1/cmss/bx/n' instead on input line 94.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 103.
+(Font)              using `T1/cmss/bx/n' instead on input line 102.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 103.
+(Font)              using `T1/cmss/bx/n' instead on input line 102.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 110.
+(Font)              using `T1/cmss/bx/n' instead on input line 108.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 110.
+(Font)              using `T1/cmss/bx/n' instead on input line 108.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 114.
+(Font)              using `T1/cmss/bx/n' instead on input line 112.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 114.
+(Font)              using `T1/cmss/bx/n' instead on input line 112.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 121.
+(Font)              using `T1/cmss/bx/n' instead on input line 125.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 121.
+(Font)              using `T1/cmss/bx/n' instead on input line 125.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 123.
+(Font)              using `T1/cmss/bx/n' instead on input line 127.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 133.
+(Font)              using `T1/cmss/bx/n' instead on input line 137.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 135.
+(Font)              using `T1/cmss/bx/n' instead on input line 139.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 135.
+(Font)              using `T1/cmss/bx/n' instead on input line 139.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 135.
-
-
-LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 143.
-
-
-LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 146.
-
-
-LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 146.
-
-
-LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 146.
-
-
-LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 147.
-
-
-LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 147.
-
-
-LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 147.
-
-
-LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 148.
-
-
-LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 148.
-
-
-LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 148.
+(Font)              using `T1/cmss/bx/n' instead on input line 139.
 
 
 
 [2
 
-] (./Sreehari_Pulickamadhom_Sreedhar_Resume.aux)
+] (./Sreehari_Pulickamadhom_Sreedhar_Resume_STAR_nolabels.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
-Package rerunfilecheck Info: File `Sreehari_Pulickamadhom_Sreedhar_Resume.out' has not changed.
-(rerunfilecheck)             Checksum: 176767B650B777E14D0D41D0B752844A;738.
+Package rerunfilecheck Info: File `Sreehari_Pulickamadhom_Sreedhar_Resume_STAR_nolabels.out' has not changed.
+(rerunfilecheck)             Checksum: 62DA4673D7AD5FBB93B7E4838FCAB4E9;650.
  ) 
 Here is how much of TeX's memory you used:
- 27568 strings out of 473190
- 525530 string characters out of 5715800
- 933214 words of memory out of 5000000
- 50291 multiletter control sequences out of 15000+600000
- 580696 words of font info for 100 fonts, out of 8000000 for 9000
+ 27571 strings out of 473190
+ 525796 string characters out of 5715800
+ 931259 words of memory out of 5000000
+ 50289 multiletter control sequences out of 15000+600000
+ 580915 words of font info for 103 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 129i,11n,129p,1060b,470s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 129i,11n,129p,1077b,470s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfsi1095.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfss1000.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfss1095.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfsx1095.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfsx1440.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfsx2488.pfb>
-Output written on Sreehari_Pulickamadhom_Sreedhar_Resume.pdf (2 pages, 175955 bytes).
+Output written on Sreehari_Pulickamadhom_Sreedhar_Resume_STAR_nolabels.pdf (2 pages, 172684 bytes).
 PDF statistics:
- 117 PDF objects out of 1000 (max. 8388607)
- 93 compressed objects within 1 object stream
- 10 named destinations out of 1000 (max. 500000)
- 22085 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 113 PDF objects out of 1000 (max. 8388607)
+ 89 compressed objects within 1 object stream
+ 9 named destinations out of 1000 (max. 500000)
+ 22077 words of extra memory for PDF output out of 24883 (max. 10000000)
 

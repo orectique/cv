@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.7.31)  2 AUG 2025 00:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.7.31)  5 OCT 2025 21:31
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/spulick/GitHub/cv/Sreehari_Pulickamadhom_Sreedhar_Cover_Letter.tex
-(/Users/spulick/GitHub/cv/Sreehari_Pulickamadhom_Sreedhar_Cover_Letter.tex
+**"/Users/spulick/GitHub/cv/Cover Letter/Sreehari_Pulickamadhom_Sreedhar_Cover_Letter.tex"
+(/Users/spulick/GitHub/cv/Cover Letter/Sreehari_Pulickamadhom_Sreedhar_Cover_Letter.tex
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
 (/usr/local/texlive/2025/texmf-dist/tex/latex/moderncv/moderncv.cls
@@ -687,11 +687,11 @@ Package hyperref Info: Link coloring OFF on input line 16.
 
 
 
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on input line 36.
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on input line 41.
 (/usr/local/texlive/2025/texmf-dist/tex/latex/fontawesome5/ufontawesomefree2.fd) (/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on input line 36.
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on input line 41.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd)
 
 Package fancyhdr Warning: \footskip is too small (30.0pt): 
@@ -709,18 +709,18 @@ Package rerunfilecheck Info: File `Sreehari_Pulickamadhom_Sreedhar_Cover_Letter.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 29962 strings out of 473190
- 588054 string characters out of 5715800
- 992731 words of memory out of 5000000
+ 29976 strings out of 473190
+ 588245 string characters out of 5715800
+ 998733 words of memory out of 5000000
  52731 multiletter control sequences out of 15000+600000
- 570432 words of font info for 68 fonts, out of 8000000 for 9000
+ 571055 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 129i,12n,129p,1066b,622s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 129i,12n,129p,1081b,622s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfsi1095.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfsl1095.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfss1095.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfsx1095.pfb>
-Output written on Sreehari_Pulickamadhom_Sreedhar_Cover_Letter.pdf (1 page, 99107 bytes).
+Output written on Sreehari_Pulickamadhom_Sreedhar_Cover_Letter.pdf (1 page, 103764 bytes).
 PDF statistics:
- 58 PDF objects out of 1000 (max. 8388607)
- 39 compressed objects within 1 object stream
+ 59 PDF objects out of 1000 (max. 8388607)
+ 40 compressed objects within 1 object stream
  2 named destinations out of 1000 (max. 500000)
  16397 words of extra memory for PDF output out of 17280 (max. 10000000)
 
