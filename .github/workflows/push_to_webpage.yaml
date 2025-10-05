@@ -1,0 +1,15 @@
+name: Push updated LaTeX CV to webpage repository
+on: [push]
+
+jobs:
+  - name: Push generated webpage to another repository
+    uses: nkoppel/push-files-to-another-repository@v1.1.4
+    env:
+      API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+    with:
+      source-files: './cv.md'
+      destination-username: 'orectique'
+      destination-repository: 'orectique.github.io'
+      destination-directory: 'content/'
+      commit-email: 'orectique@gmail.com'
+
