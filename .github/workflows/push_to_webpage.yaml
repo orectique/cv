@@ -5,6 +5,8 @@ jobs:
   copy-file:
     runs-on: ubuntu-latest
     steps: 
+      - uses: actions/checkout@v5.0.0
+      
       - name: list all files
         run: ls -a
         
