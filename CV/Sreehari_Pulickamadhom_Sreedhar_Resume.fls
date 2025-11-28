@@ -216,9 +216,6 @@ INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/fontawesome5/ufontawesomefree
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/fontawesome5/ufontawesomefree0.fd
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/fontawesome5/ufontawesomefree0.fd
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/fontawesome5/fa5free0regular.tfm
-INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/moderncv/moderncvcolorblack.sty
-INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/moderncv/moderncvcolorblack.sty
-INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/moderncv/moderncvcolors.tex
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/base/inputenc.sty
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/base/inputenc.sty
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/ragged2e/ragged2e.sty

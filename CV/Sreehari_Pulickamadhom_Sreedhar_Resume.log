@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.7.31)  4 NOV 2025 11:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.7.31)  28 NOV 2025 19:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -427,9 +427,7 @@ LaTeX Font Info:    Trying to load font information for U+fontawesomefree0 on in
 \cvitemwithcommentmainbox=\box70
 \cvitemwithcommentmainlength=\skip104
 \cvitemwithcommentcommentlength=\skip105
-)) (/usr/local/texlive/2025/texmf-dist/tex/latex/moderncv/moderncvcolorblack.sty
-Package: moderncvcolorblack 2024-07-18 v2.4.1 modern curriculum vitae and letter color scheme: black
- (/usr/local/texlive/2025/texmf-dist/tex/latex/moderncv/moderncvcolors.tex)) (/usr/local/texlive/2025/texmf-dist/tex/latex/base/inputenc.sty
+)) (/usr/local/texlive/2025/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2024/02/08 v1.3d Input encoding file
 \inpenc@prehook=\toks36
 \inpenc@posthook=\toks37
@@ -779,44 +777,44 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 34.
+(Font)              using `T1/cmss/bx/n' instead on input line 35.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 34.
+(Font)              using `T1/cmss/bx/n' instead on input line 35.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 34.
+(Font)              using `T1/cmss/bx/n' instead on input line 35.
 
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on input line 37.
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on input line 38.
 (/usr/local/texlive/2025/texmf-dist/tex/latex/fontawesome5/ufontawesomefree2.fd)
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on input line 37.
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on input line 38.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd)
-LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on input line 40.
+LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on input line 41.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands0.fd)
 LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <10.95> not available
-(Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead on input line 40.
+(Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead on input line 41.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 45.
+(Font)              using `T1/cmss/bx/n' instead on input line 46.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 48.
+(Font)              using `T1/cmss/bx/n' instead on input line 49.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 51.
+(Font)              using `T1/cmss/bx/n' instead on input line 52.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 57.
+(Font)              using `T1/cmss/bx/n' instead on input line 58.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 57.
+(Font)              using `T1/cmss/bx/n' instead on input line 58.
 
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cmss' (encoding: TS1).
@@ -824,35 +822,35 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             See the microtype manual for details.
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 63.
+(Font)              using `T1/cmss/bx/n' instead on input line 64.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 63.
+(Font)              using `T1/cmss/bx/n' instead on input line 64.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 70.
+(Font)              using `T1/cmss/bx/n' instead on input line 71.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 70.
+(Font)              using `T1/cmss/bx/n' instead on input line 71.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 77.
+(Font)              using `T1/cmss/bx/n' instead on input line 78.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 77.
+(Font)              using `T1/cmss/bx/n' instead on input line 78.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 84.
+(Font)              using `T1/cmss/bx/n' instead on input line 85.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 84.
+(Font)              using `T1/cmss/bx/n' instead on input line 85.
 
 
 
@@ -861,67 +859,67 @@ LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
 {/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 88.
+(Font)              using `T1/cmss/bx/n' instead on input line 89.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 94.
+(Font)              using `T1/cmss/bx/n' instead on input line 95.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 94.
+(Font)              using `T1/cmss/bx/n' instead on input line 95.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 102.
+(Font)              using `T1/cmss/bx/n' instead on input line 103.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 102.
+(Font)              using `T1/cmss/bx/n' instead on input line 103.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 108.
+(Font)              using `T1/cmss/bx/n' instead on input line 109.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 108.
+(Font)              using `T1/cmss/bx/n' instead on input line 109.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 112.
+(Font)              using `T1/cmss/bx/n' instead on input line 113.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 112.
+(Font)              using `T1/cmss/bx/n' instead on input line 113.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 125.
+(Font)              using `T1/cmss/bx/n' instead on input line 126.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 125.
+(Font)              using `T1/cmss/bx/n' instead on input line 126.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 127.
+(Font)              using `T1/cmss/bx/n' instead on input line 128.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 136.
+(Font)              using `T1/cmss/bx/n' instead on input line 137.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 138.
+(Font)              using `T1/cmss/bx/n' instead on input line 139.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 138.
+(Font)              using `T1/cmss/bx/n' instead on input line 139.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 138.
+(Font)              using `T1/cmss/bx/n' instead on input line 139.
 
 
 
@@ -936,15 +934,15 @@ Package rerunfilecheck Info: File `Sreehari_Pulickamadhom_Sreedhar_Resume.out' h
 (rerunfilecheck)             Checksum: 62DA4673D7AD5FBB93B7E4838FCAB4E9;650.
  ) 
 Here is how much of TeX's memory you used:
- 27573 strings out of 473190
- 525550 string characters out of 5715800
- 931217 words of memory out of 5000000
- 50289 multiletter control sequences out of 15000+600000
- 580992 words of font info for 104 fonts, out of 8000000 for 9000
+ 27555 strings out of 473190
+ 524716 string characters out of 5715800
+ 930953 words of memory out of 5000000
+ 50274 multiletter control sequences out of 15000+600000
+ 581081 words of font info for 105 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  129i,11n,129p,1063b,470s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfsi1095.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfss1000.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfss1095.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfsx1095.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfsx1440.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfsx2488.pfb>
-Output written on Sreehari_Pulickamadhom_Sreedhar_Resume.pdf (2 pages, 172653 bytes).
+Output written on Sreehari_Pulickamadhom_Sreedhar_Resume.pdf (2 pages, 172390 bytes).
 PDF statistics:
  113 PDF objects out of 1000 (max. 8388607)
  89 compressed objects within 1 object stream
