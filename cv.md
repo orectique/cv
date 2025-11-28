@@ -17,14 +17,11 @@
 
 # Profile
 
-Data-driven policy analyst with expertise in simulation studies and
-economic modeling, focused on delivering actionable insights for complex
-policy challenges.
+Data-driven policy analyst with expertise in simulation studies and economic modeling, focused on delivering actionable insights for complex policy challenges.
 
 # Areas of Expertise
 
-Agent-Based Modelling - Policy Analysis - Microsimulation - Negotiation
-and Mediation - Statistical Analysis and Modelling - Machine Learning
+Agent-Based Modelling - Policy Analysis - Microsimulation - Negotiation and Mediation - Statistical Analysis and Modelling - Machine Learning
 
 # Professional Experience
 
@@ -38,16 +35,11 @@ and Mediation - Statistical Analysis and Modelling - Machine Learning
 
 
 
-- Developed a centralized knowledge base of data at the council level,
-  streamlining policy analysis for local governments.
+- Developed a centralized knowledge base of data at the council level, streamlining policy analysis for local governments.
 
-- Designed and maintained small-area microsimulation models, enabling
-  estimation of LGA level impacts of various policies with greater
-  precision.
+- Designed and maintained small-area microsimulation models, enabling estimation of LGA level impacts of various policies with greater precision.
 
-- Delivered rapid, targeted analyses for Policy Directors on welfare,
-  climate adaptation, and Commonwealth grants, supporting strategic
-  decision-making.
+- Delivered rapid, targeted analyses for Policy Directors on welfare, climate adaptation, and Commonwealth grants, supporting strategic decision-making.
 
 
 
@@ -61,13 +53,9 @@ and Mediation - Statistical Analysis and Modelling - Machine Learning
 
 
 
-- Synthesized comparative policy research to clarify the impact of
-  federalism across Australian states and territories, informing client
-  recommendations.
+- Synthesized comparative policy research to clarify the impact of federalism across Australian states and territories, informing client recommendations.
 
-- Engineered robust indicators for quality of life, education, and
-  healthcare using multifactor statistical modeling, enhancing the depth
-  of policy analysis.
+- Engineered robust indicators for quality of life, education, and healthcare using multifactor statistical modeling, enhancing the depth of policy analysis.
 
 
 
@@ -81,17 +69,11 @@ and Mediation - Statistical Analysis and Modelling - Machine Learning
 
 
 
-- Applied high-performance computing and dynamic programming to solve
-  classical economics problems, increasing research efficiency and
-  accuracy.
+- Applied high-performance computing and dynamic programming to solve classical economics problems, increasing research efficiency and accuracy.
 
-- Co-authored and reviewed QuantEcon lecture materials with leading
-  professors, elevating the quality and reach of the educational
-  platform.
+- Co-authored and reviewed QuantEcon lecture materials with leading professors, elevating the quality and reach of the educational platform.
 
-- Led a workshop on multidimensional weighting and constrained sampling
-  in the context of spatial microsimulation, boosting participant
-  proficiency in economic modeling.
+- Led a workshop on multidimensional weighting and constrained sampling in the context of spatial microsimulation, boosting participant proficiency in economic modeling.
 
 
 
@@ -105,17 +87,11 @@ and Mediation - Statistical Analysis and Modelling - Machine Learning
 
 
 
-- Analyzed large-scale sociological survey data for a joint
-  government-university project, delivering actionable findings for
-  project recommendations.
+- Analyzed large-scale sociological survey data for a joint government-university project, delivering actionable findings for project recommendations.
 
-- Built an intuitive geospatial data analysis tool for non-technical
-  social scientists, increasing adoption and usability among field
-  researchers.
+- Built an intuitive geospatial data analysis tool for non-technical social scientists, increasing adoption and usability among field researchers.
 
-- Developed and delivered workshops on ethical data usage and
-  deidentification, improving data integrity and compliance across
-  research teams.
+- Developed and delivered workshops on ethical data usage and deidentification, improving data integrity and compliance across research teams.
 
 
 
@@ -129,16 +105,11 @@ and Mediation - Statistical Analysis and Modelling - Machine Learning
 
 
 
-- Conducted spatial analysis and aggregation of ACLED social unrest
-  data, revealing key trends in protest frequency for academic
-  publication.
+- Conducted spatial analysis and aggregation of ACLED social unrest data, revealing key trends in protest frequency for academic publication.
 
-- Developed new metrics for unrest severity using perceived violence and
-  latent intensity, enabling more nuanced mapping and comparison of
-  unrest periods.
+- Developed new metrics for unrest severity using perceived violence and latent intensity, enabling more nuanced mapping and comparison of unrest periods.
 
-- Co-authored paper accepted for presentation at Joint Statistical
-  Meetings 2022.
+- Co-authored paper accepted for presentation at Joint Statistical Meetings 2022.
 
 
 
@@ -152,16 +123,11 @@ and Mediation - Statistical Analysis and Modelling - Machine Learning
   **Canberra, ACT**  *02/2024 ‐ Present*
   
 
- Relevant topics: Microeconomic policy - Econometrics and modelling -
-Game theory and competition - Static and dynamic optimization -
-Development policy
+ Relevant topics: Microeconomic policy - Econometrics and modelling - Game theory and competition - Static and dynamic optimization - Development policy
 
-- Developed and implemented accelerated CGE models with state-of-the-art
-  optimizers, enhancing the analysis of complex economic scenarios.
+- Developed and implemented accelerated CGE models with state-of-the-art optimizers, enhancing the analysis of complex economic scenarios.
 
-- Applied experimental and quasi-experimental methods in coursework and
-  research, strengthening proficiency in policy evaluation and impact
-  assessment.
+- Applied experimental and quasi-experimental methods in coursework and research, strengthening proficiency in policy evaluation and impact assessment.
 
 
 
@@ -173,16 +139,11 @@ Development policy
   **Canberra, ACT**  *02/2023 ‐ 12/2023*
   
 
- Relevant topics: Demographic cohort analysis - Regression modelling -
-Social network analysis - Data wrangling and mining
+ Relevant topics: Demographic cohort analysis - Regression modelling - Social network analysis - Data wrangling and mining
 
-- Built and validated microsimulation models to analyze the spatial
-  distribution of Stage-3 tax cut impacts, providing insights into
-  regional disparities.
+- Built and validated microsimulation models to analyze the spatial distribution of Stage-3 tax cut impacts, providing insights into regional disparities.
 
-- Used neural network classifiers and graph analysis to study suspected
-  state-backed troll accounts on Reddit, contributing to the
-  understanding of online manipulation.
+- Used neural network classifiers and graph analysis to study suspected state-backed troll accounts on Reddit, contributing to the understanding of online manipulation.
 
 
 
@@ -196,8 +157,7 @@ Social network analysis - Data wrangling and mining
 
  Relevant topics: Negotiation and mediation - Conflict resolution
 
-- Engaged in classroom simulations and case study analyses, developing
-  effective negotiation and conflict resolution skills.
+- Engaged in classroom simulations and case study analyses, developing effective negotiation and conflict resolution skills.
 
 
 
@@ -209,16 +169,11 @@ Social network analysis - Data wrangling and mining
   **Remote**  *02/2022 - 08/2022*
   
 
- Relevant topics: Microeconomics - Econometrics - Qualitative
-analysis - Survey design - Development policy - Research ethics 
+ Relevant topics: Microeconomics - Econometrics - Qualitative analysis - Survey design - Development policy - Research ethics 
 
-- Completed rigorous coursework in microeconomics, econometrics, and
-  development policy, with a focus on evidence-based approaches to
-  global challenges.
+- Completed rigorous coursework in microeconomics, econometrics, and development policy, with a focus on evidence-based approaches to global challenges.
 
-- Applied quantitative and qualitative methods to analyze real-world
-  development interventions, emphasizing research ethics and effective
-  survey design.
+- Applied quantitative and qualitative methods to analyze real-world development interventions, emphasizing research ethics and effective survey design.
 
   
   ## Integ. MSc. Data Science,  *[Amrita Vishwa Vidyapeetham](https://www.amrita.edu/)*
@@ -228,19 +183,13 @@ analysis - Survey design - Development policy - Research ethics
   **Coimbatore, TN**  *08/2020 ‐ 12/2022*
   
 
- Relevant topics: Statistical modelling - Database management and
-design - Cryptography - Optimization - Real analysis - Linear algebra
+ Relevant topics: Statistical modelling - Database management and design - Cryptography - Optimization - Real analysis - Linear algebra
 
-- Developed a strong foundation in statistical modeling, database
-  management, and optimization, applying these skills to real-world data
-  science projects.
+- Developed a strong foundation in statistical modeling, database management, and optimization, applying these skills to real-world data science projects.
 
-- Collaborated on interdisciplinary research, leveraging advanced
-  analytical techniques to address complex problems in cryptography and
-  data analysis.
+- Collaborated on interdisciplinary research, leveraging advanced analytical techniques to address complex problems in cryptography and data analysis.
 
-- Transferred to ANU for a more policy-focused curriculum, aligning
-  academic trajectory with career goals in policy analysis.
+- Transferred to ANU for a more policy-focused curriculum, aligning academic trajectory with career goals in policy analysis.
 
 
 
@@ -248,24 +197,19 @@ design - Cryptography - Optimization - Real analysis - Linear algebra
 
 - International Political Economy of Decarbonization - Harvard DCE
 
-- Monetary Policy Analysis and Forecasting  International Monetary
-  Fund (IMFx)
+- Monetary Policy Analysis and Forecasting  International Monetary Fund (IMFx)
 
-- Effective Leadership through Emotional Intelligence  University of
-  Oxford (Online)
+- Effective Leadership through Emotional Intelligence  University of Oxford (Online)
 
-- MicroMasters in Entrepreneurship  Indian Institute of Management,
-  Bangalore (IIMBx)
+- MicroMasters in Entrepreneurship  Indian Institute of Management, Bangalore (IIMBx)
 
 # Skills
 
-- **Languages/Frameworks:** Python, Julia, MATLAB, R, Stata, Power BI,
-  Excel
+- **Languages/Frameworks:** Python, Julia, MATLAB, R, Stata, Power BI, Excel
 
 - Simulation, Econometric Modelling, and Analysis
 
-- Data Wrangling and Mining, Pipelining and Management, Visualization
-  and Communication
+- Data Wrangling and Mining, Pipelining and Management, Visualization and Communication
 
 - Neural Networks and Deep Learning
 
